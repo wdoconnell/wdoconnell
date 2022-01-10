@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Bill O'Connell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS, Node, and React.
 - 💞️ I’m looking to collaborate on JS apps and games.
 - 📫 How to reach me: wdoconnell@gmail.com
 
