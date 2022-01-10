@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bill O'Connell
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS, Node, and React.
-- 💞️ I’m looking to collaborate on JS apps and games.
-- 📫 How to reach me: wdoconnell@gmail.com
+👋 Hi, I’m Bill!
+
+I'm a software engineer and software engineering manager with experience in TypeScript, Node, Go, Rust, React, and various other languages and tools.
+
+On the side, I love tinkering with hardware, and retro game consoles.
 
 <!---
 wdoconnell/wdoconnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
