@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bill O'Connell
+- 👋 Hi, I’m Bill
 - 💞️ I’m looking to collaborate on JavaScript apps.
 - 📫 How to reach me: wdoconnell@gmail.com
 
