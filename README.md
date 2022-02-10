@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bill O'Connell
-- 💞️ I’m looking to collaborate on JS apps and games.
+- 💞️ I’m looking to collaborate on JavaScript apps.
 - 📫 How to reach me: wdoconnell@gmail.com
 
 <!---
