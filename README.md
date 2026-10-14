@@ -2,7 +2,9 @@
 
 I'm a software engineer and software engineering manager with experience in TypeScript, Node, Go, Rust, React, and various other languages and tools.
 
-On the side, I love tinkering with hardware, and retro game consoles.
+On the side, I love tinkering with hardware, and retro game consoles!
+
+This is my personal account (separate account for work these days), so most of what you'll find here is personal and hobby stuff.
 
 <!---
 wdoconnell/wdoconnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
